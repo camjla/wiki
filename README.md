@@ -1,8 +1,11 @@
-# Getting Started with Create React App
+# Trilha- REACT- DIO
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Projeto com um design simples que consiste em utilizar a API do github para buscar repositórios
 
-## Available Scripts
+## Pontos aprendidos
+>Utilizar API
+>Organização em componentes
+>Alguns outros recursos do react como: await - async, useState, axios.
 
 In the project directory, you can run:
 
