@@ -10,9 +10,12 @@ export const ItemContainer = styled.div`
   p {
     font-size: 16px;
     color: #fafafa60;
+    margin-bottom: 20px;
   }
-  a.remove {
-    color: #ff0000;
+  a {
+    
+    margin-top: 10px;
+    text-decoration: none;
   }
   hr {
     color: #fafafa60;
