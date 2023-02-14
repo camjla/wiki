@@ -3,9 +3,9 @@
 Projeto com um design simples que consiste em utilizar a API do github para buscar repositórios
 
 ## Pontos aprendidos
->Utilizar API
->Organização em componentes
->Alguns outros recursos do react como: await - async, useState, axios.
+-Utilizar API
+-Organização em componentes
+-Alguns outros recursos do react como: await - async, useState, axios.
 
 In the project directory, you can run:
 
